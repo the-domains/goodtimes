@@ -1,7 +1,7 @@
 name: Goodtimes
 favicon: null
-layout_spectrum: 0.8870572433806956
-typography_spectrum: 0.36447776202112436
+layout_spectrum: 0.24168
+typography_spectrum: 0.74268
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000002'
-    - '#322225'
-    - '#53575a'
-    - '#e8cfd2'
-    - '#9696a3'
-  brandStrength: 1
-  lightness: 0.4375
-  saturation: 0.5
+    - '#3e4a58'
+    - '#252932'
+    - '#70874f'
+    - '#aa9d71'
+    - '#ecebe6'
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.5625
   rhythmicContrast: 1
 purpose: []
